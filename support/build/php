@@ -92,7 +92,7 @@ export PATH=${OUT_PREFIX}/bin:$PATH
     --enable-bcmath=shared \
     --enable-calendar=shared \
     --enable-exif=shared \
-    --enable-ftp=shared \
+    --enable-ftp \
     --with-gd=shared \
         --enable-gd-native-ttf \
         --with-freetype-dir=/usr \
