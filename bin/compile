@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # bin/compile <build-dir> <cache-dir> <env-dir>
-
+set -x
 # fail hard
 set -o pipefail
 # fail harder
